@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">VLRickMorty</string>
+
+
+
+
+
+    <string name="tooltipMessage">Hey, I\'m %1$s!</string>
+    <string name="maleText">Male</string>
+    <string name="femaleText">Female</string>
+    <string name="previous_page">Previous Page</string>
+    <string name="noneText">None</string>
+    <string name="next_page">Next Page</string>
+    <string name="did_you_know">Did You Know?</string>
+    <string name="lastKnownLocationText">Last Known Location %1$s</string>
+    <string name="statusText">Status: %1$s</string>
+    <string name="originText">Origin: %1$s</string>
+    <string name="speciesText">Species: %1$s</string>
+    <string name="typeText">Type: %1$s</string>
+    <string name="genderText">Gender: %1$s</string>
+    <string name="episodes_description">%1$s played for the first time in the %2$s episode of the Rick and Morty. %3$s played in %4$s episode(s) in total.</string>
+   <string name="last_known_location_description">Last known location for %1$s is %2$s. %3$s people reside in this location.</string>
+</resources>

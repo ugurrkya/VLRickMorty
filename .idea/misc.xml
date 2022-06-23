@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="res/drawable-hdpi/custom_item_background.xml" value="0.2085" />
+        <entry key="res/drawable/ic_launcher_background.xml" value="0.1615" />
+        <entry key="res/layout/activity_character_detail.xml" value="0.24583333333333332" />
+        <entry key="res/layout/activity_main.xml" value="0.20929718017578136" />
+        <entry key="res/layout/character_list_items.xml" value="0.24583333333333332" />
+        <entry key="res/mipmap-anydpi-v26/ic_launcher.xml" value="0.1615" />
+        <entry key="res/xml/network_security_config.xml" value="0.1125" />
+      </map>
+    </option>
+  </component>
+  <component name="ExternalStorageConfigurationManager" enabled="true" />
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="11" project-jdk-type="JavaSDK" />
+  <component name="VisualizationToolProject">
+    <option name="state">
+      <ProjectState>
+        <option name="scale" value="0.24583333333333332" />
+      </ProjectState>
+    </option>
+  </component>
+</project>
